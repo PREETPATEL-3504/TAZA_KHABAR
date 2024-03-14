@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TAZA_KHABAR/static/css/main.d140ea94.css",
-    "main.js": "/TAZA_KHABAR/static/js/main.b06f6bae.js",
-    "static/js/787.32ca1217.chunk.js": "/TAZA_KHABAR/static/js/787.32ca1217.chunk.js",
-    "static/media/loading.gif": "/TAZA_KHABAR/static/media/loading.0c2993480d0ca8008754.gif",
-    "index.html": "/TAZA_KHABAR/index.html",
-    "main.d140ea94.css.map": "/TAZA_KHABAR/static/css/main.d140ea94.css.map",
-    "main.b06f6bae.js.map": "/TAZA_KHABAR/static/js/main.b06f6bae.js.map",
-    "787.32ca1217.chunk.js.map": "/TAZA_KHABAR/static/js/787.32ca1217.chunk.js.map"
+    "main.css": "/PREETPATEL-3504/TAZA_KHABAR.git/static/css/main.d140ea94.css",
+    "main.js": "/PREETPATEL-3504/TAZA_KHABAR.git/static/js/main.a839f3ca.js",
+    "static/js/787.32ca1217.chunk.js": "/PREETPATEL-3504/TAZA_KHABAR.git/static/js/787.32ca1217.chunk.js",
+    "static/media/loading.gif": "/PREETPATEL-3504/TAZA_KHABAR.git/static/media/loading.0c2993480d0ca8008754.gif",
+    "index.html": "/PREETPATEL-3504/TAZA_KHABAR.git/index.html",
+    "main.d140ea94.css.map": "/PREETPATEL-3504/TAZA_KHABAR.git/static/css/main.d140ea94.css.map",
+    "main.a839f3ca.js.map": "/PREETPATEL-3504/TAZA_KHABAR.git/static/js/main.a839f3ca.js.map",
+    "787.32ca1217.chunk.js.map": "/PREETPATEL-3504/TAZA_KHABAR.git/static/js/787.32ca1217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d140ea94.css",
-    "static/js/main.b06f6bae.js"
+    "static/js/main.a839f3ca.js"
   ]
 }
