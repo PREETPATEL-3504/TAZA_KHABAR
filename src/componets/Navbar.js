@@ -1,7 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { Link } from "react-router-dom";
 
-const Navbar = ()=>{
+const Navbar = () => {
   return (
     <div>
       <nav className="navbar fixed-top navbar-expand-lg bg-body-tertiary">
@@ -13,7 +13,7 @@ const Navbar = ()=>{
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" to="/">Home</a>
+                <Link className="nav-link active" aria-current="page" to="/">Home</Link>
               </li>
               <div className="dropdown">
                 <button className="nav-link active  dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
@@ -34,7 +34,6 @@ const Navbar = ()=>{
       </nav>
     </div>
   )
-
 }
 
 export default Navbar

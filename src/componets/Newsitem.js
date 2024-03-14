@@ -2,15 +2,9 @@ import React from 'react'
 
 const Newsitem = (props) => {
 
-
-
   let { title, discription, imgurl, url, author, date } = props;
 
-
-
   return (
-
-
     <div>
       <div className="card overflow-hidden " style={{ height: "450px", marginBottom: "20px" }}>
         <img src={imgurl} className="card-img-top" alt="Not Found" style={{ height: "200px" }} />
