@@ -22,14 +22,14 @@ const News = (props) => {
 
   useEffect(() => {
     UpdateNews();
-  },[])
+  }, [])
 
   return (
     <div>
       <div className="container my-4">
         <h1 className="text-center my-5">Taza Khabar - Top news</h1>
         {loading && <Spinner />}
-       
+
         <div className="row">
           {!loading && articles.map((news, index) => {
             return <div className="col-md-4" key={index.url}>
