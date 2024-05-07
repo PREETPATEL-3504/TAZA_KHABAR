@@ -13,13 +13,10 @@ const Newsitem = (props) => {
           <p className="card-text ellipsis" >{discription}...</p>
           <p className="card-text "><small className="text-muted ">By {!author ? "Unknow" : author} on {date}</small></p>
           <a href={url} target="_blank" rel="noreferrer" className="btn btn-primary position-absolute bottom-0 start-0 my-2 mx-3">Detail News</a>
-
         </div>
       </div>
     </div>
-
   )
-
 }
 
 export default Newsitem
